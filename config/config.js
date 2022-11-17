@@ -24,3 +24,4 @@ const {DB_PORT,DB_HOST,DB_USERNAME,DB_PASSWORD,DB_NAME,DB_DILALECT } = process.e
     dialect: DB_DILALECT
   }
 }
+  
